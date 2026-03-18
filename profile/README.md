@@ -4,15 +4,6 @@
 
 ---
 
-## Featured Projects
-
-* **libft** — Custom C library implementation\
-  ↳ [repository](https://codeberg.org/6times7/libft) · [subject]()
-
-*(More featured projects will be added over time)*
-
----
-
 ## 42 Cursus
 
 | Milestone | Project | Description      | Status         |
