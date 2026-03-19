@@ -9,6 +9,7 @@
 | Milestone | Project | Description      | Status         |
 | --------- | ------- | ---------------- | -------------- |
 | 0         | [libft](https://github.com/3times2times7/libft) · [subject]() | Custom C library | 🟡 In progress |
+| 1         | [printf](https://github.com/3times2times7/printf) · [subject]() | Implementation of libc's `printf` | 🟡 In progress |
 
 ---
 
